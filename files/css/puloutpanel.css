@@ -1,0 +1,72 @@
+.pocp_left {
+	position: fixed;
+	top:0;
+	right:0px;
+	height: 100%;
+	z-index: 9999;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	margin-top:48px;
+	width: 210px;	
+}
+.latestusers {
+    left: 10px;
+    color: #FFF;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 30px;
+    padding-left: 10px;
+    padding-right: 80px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    cursor:pointer;
+}
+.pocp {
+	position: relative;
+	width: 210px;
+	height: 100%;
+	background: #fff; 
+	color: #000;
+	box-shadow: 0px 2px 6px #ccc;	
+	padding: 0;
+}
+.commentsToggle
+{
+	width:210px;background-color: #505653; height: 30px; box-shadow: 0px 2px 6px #ccc;
+}
+.showin
+{
+	
+	position:fixed;
+	bottom:0px;
+	right:0px;
+}
+
+
+
+.icon-plus
+{
+	
+	display:none;
+	
+}
+.icon-minus
+{
+	display:none;
+	
+}
+.settingsupdate
+{
+	float:right;
+	padding-right:10px;
+	padding-top:6px;
+	
+}
+
+
+.pocp .pocp_content {
+	float: right;
+	width: 210px;	
+}
+
+.div_ads{width:195px; height:100%; }

@@ -1,0 +1,11 @@
+.top_button{width:100%; height:30px; background:#E8E8E8; margin:0 auto; position:fixed; top:0; z-index:9999; padding:16px 0px 5px 0px;}
+.top_button a{text-decoration:none; font-family:"Calibri"; font-size:14px; color:#fff; -webkit-border-radius: 4px;-moz-border-radius: 4px;border-radius: 4px; padding:10px 20px; background:#033;}
+
+.top_button a:hover{background:#003366;}
+
+.goback{width:100px; height:40px; float:left;}
+.download_button{width:200px; height:40px; float:left;}
+
+.top_ad{background-color:white; width:100%;; margin:40px auto 0px; padding:0; height:90px; padding:20px 0px 10px 0px; text-align:center;}
+
+.post_box{width:100%; height:auto; margin:0 auto; background:#CCCCCC; min-height:300px;}
